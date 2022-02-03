@@ -3,10 +3,10 @@ This repository contains my past Data Science portfolio. All project was created
 
 ## Table of Contents
 1. [Machine Learning](#machine-learning)
-   - [Underdeveloped country clustering using K Means](#underdeveloped-country-clustering-using-k-means)
-   - [Public sentiment analysis using Naive Bayes](#public-sentiment-analysis-using-naive-bayes)
+   - Underdeveloped country clustering using K Means
+   - Public sentiment analysis using Naive Bayes
 2. [Data Analysis](#data-analysis)
-   - [IMBD Movie dataset](#imbd-movie-dataset)
+   - IMBD Movie dataset
 
 ### Machine Learning
 - [Underdeveloped country clustering using K Means](https://github.com/rainaldyd/Portfolio/blob/main/Machine%20Learning/Underdeveloped%20Country%20Clustering%20using%20K-Means): K-Means Clustering method is used to cluster which underdeveloped countries are the most urgent to be helped by NGO. This project include Exploratory analysis (EDA), Outlier treatment, dan 3D data visualization.
