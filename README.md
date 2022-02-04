@@ -1,5 +1,5 @@
 # DATA SCIENCE PORTFOLIO
-This repository contains my past Data Science portfolio. All project was created using iPython format.
+This repository contains my past Data Science projects. All project was created using iPython format.
 
 ## Table of Contents
 1. [Machine Learning](#machine-learning)
@@ -14,6 +14,3 @@ This repository contains my past Data Science portfolio. All project was created
 
 ### Data Exploration
 - [IMBD Movie simple data exploration using SQL query](https://github.com/rainaldyd/Portfolio/blob/main/Data%20Exploration/IMBD%20Movie%20Simple%20Data%20Exploration.ipynb): Import dataset from IMDB Movies database using SQL query requested using Python and then do analysis, such as directors with the most movies, highest earning movie directors, most profitable movies, and visualizing the movie budget distribution of a particular year.
-
-
-*these portfolio is still under construction.
