@@ -13,7 +13,7 @@ This repository contains my past Data Science portfolio. All project was created
 - [Public sentiment analysis using Naive Bayes](https://github.com/rainaldyd/Portfolio/blob/main/Machine%20Learning/Public%20Sentiment%20Analysis%20using%20Naive%20Bayes): Gaussian Naive Bayes method is used to classify DKI Jakarta residents sentiment analysis of Indonesia capital city transfer to Penajam Paser Utara, East Kalimantan. The analysis result answered 2 questions, (1) Are they agree with the captial city transfer? and (2) What is the reason behind their agreement/disagreement? This project include (legal) Webscraping using twitter API, Text preprocessing, Text analysis, and Topic analysis with Hyperparameter tuning.
 
 ### Data Analysis
-- [IMBD Movie dataset](https://github.com/rainaldyd/Portfolio/blob/main/Data%20Analysis/IMBD%20Movie%20Dataset): Import dataset from IMDB Movies database using SQL query requested using Python and then do analysis, such as directors with the most movies, highest earning movie directors, most profitable movies, and visualizing the movie budgets distribution of particular year.
+- [IMBD Movie dataset](https://github.com/rainaldyd/Portfolio/blob/main/Data%20Analysis/IMBD%20Movie%20Dataset): Import dataset from IMDB Movies database using SQL query requested using Python and then do analysis, such as directors with the most movies, highest earning movie directors, most profitable movies, and visualizing the movie budget distribution of a particular year.
 
 
 *these portfolio is still under construction.
